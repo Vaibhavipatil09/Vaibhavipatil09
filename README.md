@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhavi Patil</h1>
 <h3 align="center">A passionate Web developer and Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
-<p align="left"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="vaibhavipatil09" /> </p>
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<p align="left"> <img src="" alt="vaibhavipatil09" /> </p>
 
 - 🔭 I’m currently working on **Data Analysis and Data Science**
 
